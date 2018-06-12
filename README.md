@@ -56,6 +56,6 @@ For edit page content please click on page in the file navigation tree to open i
 
 ![typo3-page-edit](_assets/typo3-page-edit.png)
 
-After thar use code icon for source code and replace it:
+Afterthat use code icon for source code and replace it:
 
 ![typo3-page-edit](_assets/typo3-text-editor.png)
